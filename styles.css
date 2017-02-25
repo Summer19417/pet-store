@@ -1,0 +1,24 @@
+body {
+	background-color: darkblue;
+}  
+
+#all-pets{
+	background-color: gray;
+	text-align: center;
+}  
+
+.individual-pet{
+	border-style: dotted;
+	border-width: 1px;
+}
+img{
+	width: 300px;
+	height: 300px;
+}
+h2{
+	color: darkred;
+} 
+p{
+	font-size: 20px;
+	font-family: "comic sans MS";
+}  
